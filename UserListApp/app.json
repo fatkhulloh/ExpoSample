@@ -21,10 +21,17 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.fatkhulloh6939.UserListApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cb96b4f5-8d71-4fda-8139-e84d45ec7ce7"
+      }
+    },
+    "owner": "fatkhulloh6939"
   }
 }
